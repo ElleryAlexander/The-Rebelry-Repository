@@ -2,7 +2,7 @@ body, html {
     margin: 0;
     padding: 0;
     height: 100%;
-    font-family: 'Playfair Display', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .container {
@@ -15,11 +15,11 @@ body, html {
 }
 
 .center-image {
-    max-width: 100%;
-    height: auto;
+    width: 80%; /* Set the image width to 80% of its container */
+    height: auto; /* Maintain the aspect ratio */
 }
 
 .centered-text {
-    font-size: 2.4em;
-    margin-top: 2em;
+    font-size: 2em;
+    margin-top: 20px;
 }
