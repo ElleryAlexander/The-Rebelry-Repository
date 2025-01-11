@@ -1,4 +1,4 @@
-# My Webpage
+# The Rebelry
 
 Welcome to the repository for "Brought to You by The Rebelry" webpage. This project contains a simple webpage built with HTML and CSS featuring a centered large image and a text message.
 
