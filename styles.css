@@ -15,7 +15,7 @@ body, html {
 }
 
 .center-image {
-    width: 50%; /* Set the image width to 50% of its container */
+    width: 40%; /* Set the image width to 40% of its container */
     height: auto; /* Maintain the aspect ratio */
 }
 
