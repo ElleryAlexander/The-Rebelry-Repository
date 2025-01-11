@@ -1,5 +1,5 @@
 body, html {
-    margin: 0;
+    margin: 2rem;
     padding: 0;
     height: 100%;
     font-family: 'Times New Roman', Times, serif;
@@ -15,7 +15,7 @@ body, html {
 }
 
 .center-image {
-    width: 80%; /* Set the image width to 80% of its container */
+    width: 60%; /* Set the image width to 60% of its container */
     height: auto; /* Maintain the aspect ratio */
 }
 
