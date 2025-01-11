@@ -22,4 +22,5 @@ body, html {
 .centered-text {
     font-size: 2em;
     margin-top: 20px;
+    margin-bottom: 100px;
 }
